@@ -29,7 +29,9 @@
 
 ![main](https://user-images.githubusercontent.com/106371099/197154874-b4d20dc2-9074-4932-8854-ba57c4837b1c.png)
 
-![screencapture-react-kenzie-burguer-vercel-app-2022-09-29-09_33_35](https://user-images.githubusercontent.com/102761014/193032388-60c32853-c3f9-4114-856e-0ba579a5a29d.png)
+![Kenziehub1](https://user-images.githubusercontent.com/106371099/197155508-6b469350-80d9-4087-90af-5d968639453b.png)
+
+![KenzieHub2](https://user-images.githubusercontent.com/106371099/197155520-5b94fb9c-dd17-4235-a1dd-96018e2d1653.png)
 
 * Vamos nos conectar? *
 - [Linkedin](https://www.linkedin.com/in/gabrielmalafaia/)
