@@ -1,6 +1,6 @@
 # React-Typescript Kenzie Hub
 
-* Idealização *
+## * Idealização *
 - Uma plataforma com cadastro e login, feita para cadastro das technologias que o dev domina, podendo organizar por nível, deletar, editar essas technologias.
 
 * Tecnologias *
