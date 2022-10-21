@@ -27,7 +27,7 @@
 
 - <a href="https://react-entrega-kenzie-hub-gabriel-malafaia.vercel.app/">Link do projeto</a>
 
-![screencapture-react-kenzie-burguer-vercel-app-2022-09-29-09_33_16]([https://user-images.githubusercontent.com/102761014/193032341-71d76c5f-b364-48bc-b854-e91202cf9b0a.png](https://i.imgur.com/k01yxOM.png))
+> ![main](https://user-images.githubusercontent.com/106371099/197154874-b4d20dc2-9074-4932-8854-ba57c4837b1c.png)
 
 ![screencapture-react-kenzie-burguer-vercel-app-2022-09-29-09_33_35](https://user-images.githubusercontent.com/102761014/193032388-60c32853-c3f9-4114-856e-0ba579a5a29d.png)
 
