@@ -6,6 +6,9 @@
 ## 💻 Tecnologias
 - React
 - Typescript
+
+## 🔮 Bibliotecas
+
 - React Router DOM
 - React Hook Form & Yup
 - Material Ui
